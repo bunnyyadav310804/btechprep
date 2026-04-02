@@ -27,7 +27,11 @@ export default function Certifications() {
         setCompletedCerts(parsed);
       }
     }
+<<<<<<< HEAD
   }, [currentUser?.id]);
+=======
+  }, [currentUser.id]);
+>>>>>>> d3bb5116d2c3e81b09fc3a055fa35b21ce3dd4aa
 
   const categories = ['Cloud', 'Programming', 'DevOps', 'CRM', 'Data', 'BI/Analytics', 'Security', 'Web Development', 'Mobile', 'AI/ML'];
   const displayedCerts = getCertificationsByCategory(selectedCategory);

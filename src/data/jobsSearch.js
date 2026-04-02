@@ -293,28 +293,46 @@ export const currentJobs = [
   {
     id: 13,
     platform: 'LeetCode Contests',
+<<<<<<< HEAD
     title: 'Weekly LeetCode Contests',
+=======
+    title: 'Weekly Contest #350',
+>>>>>>> d3bb5116d2c3e81b09fc3a055fa35b21ce3dd4aa
     company: 'LeetCode',
     location: 'Online',
     salary: '-',
     experience: 'All Levels',
     deadlineOffsetDays: 3, // 3 days until contest start
+<<<<<<< HEAD
     applyLink: 'https://leetcode.com/contest/',
     description: 'Participate in the weekly LeetCode contest series. Open to everyone.',
+=======
+    applyLink: 'https://leetcode.com/contest/weekly-contest-350',
+    description: 'Participate in the weekly LeetCode coding contest. Open to everyone.',
+>>>>>>> d3bb5116d2c3e81b09fc3a055fa35b21ce3dd4aa
     skills: ['Algorithms', 'Data Structures', 'Problem Solving'],
     jobType: 'Contest'
   },
   {
     id: 14,
     platform: 'LeetCode Contests',
+<<<<<<< HEAD
     title: 'Biweekly LeetCode Contests',
+=======
+    title: 'Biweekly Contest #120',
+>>>>>>> d3bb5116d2c3e81b09fc3a055fa35b21ce3dd4aa
     company: 'LeetCode',
     location: 'Online',
     salary: '-',
     experience: 'All Levels',
     deadlineOffsetDays: 10, // 10 days
+<<<<<<< HEAD
     applyLink: 'https://leetcode.com/contest/',
     description: 'Biweekly challenge series from LeetCode. Sharpen your competitive programming skills.',
+=======
+    applyLink: 'https://leetcode.com/contest/biweekly-contest-120',
+    description: 'Biweekly challenge from LeetCode. Sharpen your competitive programming skills.',
+>>>>>>> d3bb5116d2c3e81b09fc3a055fa35b21ce3dd4aa
     skills: ['Algorithms', 'Math', 'Optimization'],
     jobType: 'Contest'
   },
@@ -373,7 +391,11 @@ export const currentJobs = [
     salary: '-',
     experience: 'Beginner',
     deadlineOffsetDays: 4,
+<<<<<<< HEAD
     applyLink: 'https://atcoder.jp/contests/abc',
+=======
+    applyLink: 'https://atcoder.jp/contests/',
+>>>>>>> d3bb5116d2c3e81b09fc3a055fa35b21ce3dd4aa
     description: 'Japanese competitive programming contests backed by major tech companies',
     skills: ['Competitive Programming', 'Algorithms', 'Math'],
     jobType: 'Contest'
