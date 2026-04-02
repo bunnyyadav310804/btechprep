@@ -9,13 +9,8 @@ export const contestPlatforms = [
     url: 'https://leetcode.com/contest/',
     description: 'LeetCode weekly algorithmic contests',
     deadline: new Date(Date.now() + 7 * 24 * 60 * 60 * 1000), // placeholder: 1 week
-<<<<<<< HEAD
     // fallback to the official contest home page when current round ends
     replacementUrl: 'https://leetcode.com/contest/'
-=======
-    // example replacement once the contest finishes
-    replacementUrl: 'https://leetcode.com/contest/weekly-contest-etc'
->>>>>>> d3bb5116d2c3e81b09fc3a055fa35b21ce3dd4aa
   },
   {
     id: 2,

@@ -8,10 +8,6 @@ const menu = [
   { name: "QAR Preparation", path: "/qar" },
   { name: "VACR Preparation", path: "/vacr" },
   { name: "DSA Practice", path: "/dsa" },
-<<<<<<< HEAD
-=======
-  { name: "Coding Contests", path: "/job-search" },
->>>>>>> d3bb5116d2c3e81b09fc3a055fa35b21ce3dd4aa
   { name: "Programming Language Preparation", path: "/programming-languages" },
   { name: "BTECH Guidance", path: "/btech-guides" },
   { name: "Career Paths", path: "/career-path" },
